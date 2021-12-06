@@ -1,0 +1,18 @@
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\4cu tapsiriq\bin\Debug\net5.0\4cu tapsiriq.exe
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\4cu tapsiriq\bin\Debug\net5.0\4cu tapsiriq.deps.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\4cu tapsiriq\bin\Debug\net5.0\4cu tapsiriq.runtimeconfig.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\4cu tapsiriq\bin\Debug\net5.0\4cu tapsiriq.runtimeconfig.dev.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\4cu tapsiriq\bin\Debug\net5.0\4cu tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\4cu tapsiriq\bin\Debug\net5.0\ref\4cu tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\4cu tapsiriq\bin\Debug\net5.0\4cu tapsiriq.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\4cu tapsiriq\bin\Debug\net5.0\MyHelperMethods.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\4cu tapsiriq\bin\Debug\net5.0\MyHelperMethods.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\4cu tapsiriq\obj\Debug\net5.0\4cu tapsiriq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\4cu tapsiriq\obj\Debug\net5.0\4cu tapsiriq.AssemblyInfoInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\4cu tapsiriq\obj\Debug\net5.0\4cu tapsiriq.AssemblyInfo.cs
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\4cu tapsiriq\obj\Debug\net5.0\4cu tapsiriq.csproj.CoreCompileInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\4cu tapsiriq\obj\Debug\net5.0\4cu tapsiriq.csproj.CopyComplete
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\4cu tapsiriq\obj\Debug\net5.0\4cu tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\4cu tapsiriq\obj\Debug\net5.0\ref\4cu tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\4cu tapsiriq\obj\Debug\net5.0\4cu tapsiriq.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\4cu tapsiriq\obj\Debug\net5.0\4cu tapsiriq.genruntimeconfig.cache

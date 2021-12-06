@@ -1,0 +1,19 @@
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\15ci tapsiriq\bin\Debug\net5.0\15ci tapsiriq.exe
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\15ci tapsiriq\bin\Debug\net5.0\15ci tapsiriq.deps.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\15ci tapsiriq\bin\Debug\net5.0\15ci tapsiriq.runtimeconfig.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\15ci tapsiriq\bin\Debug\net5.0\15ci tapsiriq.runtimeconfig.dev.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\15ci tapsiriq\bin\Debug\net5.0\15ci tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\15ci tapsiriq\bin\Debug\net5.0\ref\15ci tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\15ci tapsiriq\bin\Debug\net5.0\15ci tapsiriq.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\15ci tapsiriq\bin\Debug\net5.0\MyHelperMethods.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\15ci tapsiriq\bin\Debug\net5.0\MyHelperMethods.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\15ci tapsiriq\obj\Debug\net5.0\15ci tapsiriq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\15ci tapsiriq\obj\Debug\net5.0\15ci tapsiriq.AssemblyInfoInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\15ci tapsiriq\obj\Debug\net5.0\15ci tapsiriq.AssemblyInfo.cs
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\15ci tapsiriq\obj\Debug\net5.0\15ci tapsiriq.csproj.CoreCompileInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\15ci tapsiriq\obj\Debug\net5.0\15ci tapsiriq.csproj.CopyComplete
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\15ci tapsiriq\obj\Debug\net5.0\15ci tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\15ci tapsiriq\obj\Debug\net5.0\ref\15ci tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\15ci tapsiriq\obj\Debug\net5.0\15ci tapsiriq.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\15ci tapsiriq\obj\Debug\net5.0\15ci tapsiriq.genruntimeconfig.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\15ci tapsiriq\obj\Debug\net5.0\15ci tapsiriq.csproj.AssemblyReference.cache

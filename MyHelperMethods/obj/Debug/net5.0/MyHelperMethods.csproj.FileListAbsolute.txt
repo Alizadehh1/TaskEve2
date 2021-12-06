@@ -1,0 +1,12 @@
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\MyHelperMethods\bin\Debug\net5.0\MyHelperMethods.deps.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\MyHelperMethods\bin\Debug\net5.0\MyHelperMethods.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\MyHelperMethods\bin\Debug\net5.0\ref\MyHelperMethods.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\MyHelperMethods\bin\Debug\net5.0\MyHelperMethods.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\MyHelperMethods\obj\Debug\net5.0\MyHelperMethods.csproj.AssemblyReference.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\MyHelperMethods\obj\Debug\net5.0\MyHelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\MyHelperMethods\obj\Debug\net5.0\MyHelperMethods.AssemblyInfoInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\MyHelperMethods\obj\Debug\net5.0\MyHelperMethods.AssemblyInfo.cs
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\MyHelperMethods\obj\Debug\net5.0\MyHelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\MyHelperMethods\obj\Debug\net5.0\MyHelperMethods.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\MyHelperMethods\obj\Debug\net5.0\ref\MyHelperMethods.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\MyHelperMethods\obj\Debug\net5.0\MyHelperMethods.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "12ci tapsiriq/1.0.0": {
+        "dependencies": {
+          "MyHelperMethods": "1.0.0"
+        },
+        "runtime": {
+          "12ci tapsiriq.dll": {}
+        }
+      },
+      "MyHelperMethods/1.0.0": {
+        "runtime": {
+          "MyHelperMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "12ci tapsiriq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyHelperMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

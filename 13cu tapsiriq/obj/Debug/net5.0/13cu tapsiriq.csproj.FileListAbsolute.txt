@@ -1,0 +1,19 @@
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\13cu tapsiriq\bin\Debug\net5.0\13cu tapsiriq.exe
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\13cu tapsiriq\bin\Debug\net5.0\13cu tapsiriq.deps.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\13cu tapsiriq\bin\Debug\net5.0\13cu tapsiriq.runtimeconfig.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\13cu tapsiriq\bin\Debug\net5.0\13cu tapsiriq.runtimeconfig.dev.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\13cu tapsiriq\bin\Debug\net5.0\13cu tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\13cu tapsiriq\bin\Debug\net5.0\ref\13cu tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\13cu tapsiriq\bin\Debug\net5.0\13cu tapsiriq.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\13cu tapsiriq\bin\Debug\net5.0\MyHelperMethods.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\13cu tapsiriq\bin\Debug\net5.0\MyHelperMethods.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\13cu tapsiriq\obj\Debug\net5.0\13cu tapsiriq.csproj.AssemblyReference.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\13cu tapsiriq\obj\Debug\net5.0\13cu tapsiriq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\13cu tapsiriq\obj\Debug\net5.0\13cu tapsiriq.AssemblyInfoInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\13cu tapsiriq\obj\Debug\net5.0\13cu tapsiriq.AssemblyInfo.cs
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\13cu tapsiriq\obj\Debug\net5.0\13cu tapsiriq.csproj.CoreCompileInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\13cu tapsiriq\obj\Debug\net5.0\13cu tapsiriq.csproj.CopyComplete
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\13cu tapsiriq\obj\Debug\net5.0\13cu tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\13cu tapsiriq\obj\Debug\net5.0\ref\13cu tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\13cu tapsiriq\obj\Debug\net5.0\13cu tapsiriq.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\13cu tapsiriq\obj\Debug\net5.0\13cu tapsiriq.genruntimeconfig.cache

@@ -1,0 +1,19 @@
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\Task(Eve2)\bin\Debug\net5.0\1ci tapsiriq.exe
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\Task(Eve2)\bin\Debug\net5.0\1ci tapsiriq.deps.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\Task(Eve2)\bin\Debug\net5.0\1ci tapsiriq.runtimeconfig.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\Task(Eve2)\bin\Debug\net5.0\1ci tapsiriq.runtimeconfig.dev.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\Task(Eve2)\bin\Debug\net5.0\1ci tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\Task(Eve2)\bin\Debug\net5.0\ref\1ci tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\Task(Eve2)\bin\Debug\net5.0\1ci tapsiriq.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\Task(Eve2)\bin\Debug\net5.0\MyHelperMethods.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\Task(Eve2)\bin\Debug\net5.0\MyHelperMethods.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\Task(Eve2)\obj\Debug\net5.0\1ci tapsiriq.csproj.AssemblyReference.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\Task(Eve2)\obj\Debug\net5.0\1ci tapsiriq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\Task(Eve2)\obj\Debug\net5.0\1ci tapsiriq.AssemblyInfoInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\Task(Eve2)\obj\Debug\net5.0\1ci tapsiriq.AssemblyInfo.cs
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\Task(Eve2)\obj\Debug\net5.0\1ci tapsiriq.csproj.CoreCompileInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\Task(Eve2)\obj\Debug\net5.0\1ci tapsiriq.csproj.CopyComplete
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\Task(Eve2)\obj\Debug\net5.0\1ci tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\Task(Eve2)\obj\Debug\net5.0\ref\1ci tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\Task(Eve2)\obj\Debug\net5.0\1ci tapsiriq.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\Task(Eve2)\obj\Debug\net5.0\1ci tapsiriq.genruntimeconfig.cache

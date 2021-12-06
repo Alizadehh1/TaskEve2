@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "MyHelperMethods/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/MyHelperMethods.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyHelperMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyHelperMethods/1.0.0": {
+      "type": "project",
+      "path": "../MyHelperMethods/MyHelperMethods.csproj",
+      "msbuildProject": "../MyHelperMethods/MyHelperMethods.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "MyHelperMethods >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\alide\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\Task(Eve2)\\13cu tapsiriq\\13cu tapsiriq.csproj",
+      "projectName": "13cu tapsiriq",
+      "projectPath": "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\Task(Eve2)\\13cu tapsiriq\\13cu tapsiriq.csproj",
+      "packagesPath": "C:\\Users\\alide\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\Task(Eve2)\\13cu tapsiriq\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\alide\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\Task(Eve2)\\MyHelperMethods\\MyHelperMethods.csproj": {
+              "projectPath": "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\Task(Eve2)\\MyHelperMethods\\MyHelperMethods.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

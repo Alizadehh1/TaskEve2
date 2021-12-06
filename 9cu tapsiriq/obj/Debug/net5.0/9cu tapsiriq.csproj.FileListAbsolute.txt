@@ -1,0 +1,19 @@
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\9cu tapsiriq\bin\Debug\net5.0\9cu tapsiriq.exe
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\9cu tapsiriq\bin\Debug\net5.0\9cu tapsiriq.deps.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\9cu tapsiriq\bin\Debug\net5.0\9cu tapsiriq.runtimeconfig.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\9cu tapsiriq\bin\Debug\net5.0\9cu tapsiriq.runtimeconfig.dev.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\9cu tapsiriq\bin\Debug\net5.0\9cu tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\9cu tapsiriq\bin\Debug\net5.0\ref\9cu tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\9cu tapsiriq\bin\Debug\net5.0\9cu tapsiriq.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\9cu tapsiriq\bin\Debug\net5.0\MyHelperMethods.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\9cu tapsiriq\bin\Debug\net5.0\MyHelperMethods.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\9cu tapsiriq\obj\Debug\net5.0\9cu tapsiriq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\9cu tapsiriq\obj\Debug\net5.0\9cu tapsiriq.AssemblyInfoInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\9cu tapsiriq\obj\Debug\net5.0\9cu tapsiriq.AssemblyInfo.cs
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\9cu tapsiriq\obj\Debug\net5.0\9cu tapsiriq.csproj.CoreCompileInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\9cu tapsiriq\obj\Debug\net5.0\9cu tapsiriq.csproj.CopyComplete
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\9cu tapsiriq\obj\Debug\net5.0\9cu tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\9cu tapsiriq\obj\Debug\net5.0\ref\9cu tapsiriq.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\9cu tapsiriq\obj\Debug\net5.0\9cu tapsiriq.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\9cu tapsiriq\obj\Debug\net5.0\9cu tapsiriq.genruntimeconfig.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\9cu tapsiriq\obj\Debug\net5.0\9cu tapsiriq.csproj.AssemblyReference.cache
