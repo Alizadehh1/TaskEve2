@@ -69,7 +69,7 @@ namespace _14cu_tapsiriq
                 Console.WriteLine("Enter Correctly!");
                 goto Error1;
             }
-            Console.Clear();
+            Console.Clear();            
 
             int num1 = number1 / 1000;
             int num2 = number2 / 1000;
@@ -79,7 +79,29 @@ namespace _14cu_tapsiriq
 
             int multiofnum5 = Calculator.MultiplyOfDigits(num5);
 
-            double num = (((num1 + num2 + num3 + num4) - multiofnum5) * 0.6)*100+60;
+            double num = (((num1 + num2 + num3 + num4) - multiofnum5) * 0.6);   //eded
+            double eded1 = (num % 10)/10; //tekce kesr hisse
+            int eded2 = (int)num;       //tam hisse
+            double eded3;
+            double eded4;
+            
+            if (eded1 > 0 && eded1 < 1)
+            {
+                eded2 = eded2 * 100 + 60;
+                num = eded2 + eded1;
+                eded4 = num-(num * 0.18);
+                Console.WriteLine(eded4);
+            }
+            else
+            {
+                eded2 = eded2 * 100 + 60;
+                eded3 = eded2-(eded2 * 0.18);
+                Console.WriteLine($"Your Result: {eded3}");
+            }
+
+
+
+            
 
             
 

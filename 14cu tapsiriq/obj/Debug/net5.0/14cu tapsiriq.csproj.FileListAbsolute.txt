@@ -16,3 +16,4 @@ C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\14cu tapsiriq\obj\Debug\net
 C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\14cu tapsiriq\obj\Debug\net5.0\ref\14cu tapsiriq.dll
 C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\14cu tapsiriq\obj\Debug\net5.0\14cu tapsiriq.pdb
 C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\14cu tapsiriq\obj\Debug\net5.0\14cu tapsiriq.genruntimeconfig.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task(Eve2)\14cu tapsiriq\obj\Debug\net5.0\14cu tapsiriq.csproj.AssemblyReference.cache
